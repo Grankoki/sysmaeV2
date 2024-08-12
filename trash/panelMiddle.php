@@ -1,0 +1,3 @@
+<div>
+Panel central
+</div>
